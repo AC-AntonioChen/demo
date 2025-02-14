@@ -1,4 +1,4 @@
-package demo.bucket;
+package demo.javaguide.java.buctet.bucket;
 
 import java.util.ArrayList;
 import java.util.List;

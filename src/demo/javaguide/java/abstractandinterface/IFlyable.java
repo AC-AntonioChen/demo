@@ -1,4 +1,4 @@
-package demo.abstractandinterface;
+package demo.javaguide.java.abstractandinterface;
 
 /**
  * 飞行能力

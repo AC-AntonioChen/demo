@@ -1,4 +1,4 @@
-package demo.abstractandinterface;
+package demo.javaguide.java.abstractandinterface;
 
 public class Fish implements ISwimmingAbility{
     @Override

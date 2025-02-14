@@ -1,4 +1,4 @@
-package demo.gc;
+package demo.javaguide.java.gc;
 
 /**
  * gctest
